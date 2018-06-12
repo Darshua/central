@@ -7,6 +7,7 @@ public class DisplayNumber {
 		for(int i=0;i<=n;i++) {
 			System.out.println("value =:: "+i);
 		}
+		System.out.println("CodeEnds");
 	}
 
 }
